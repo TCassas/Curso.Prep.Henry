@@ -1,0 +1,36 @@
+- Variables:            JavaScript nos dá la posibilidad de guardar información en algo llamado variables,
+                        las cuales nos resultarán muy importantes ya que luego las podemos utilizar para
+                        realizar todo tipo de actividades. Estas pueden guardar todo tipo de información,
+                        por ejemplo palabras o numeros.
+                        Ejemplo=
+
+                            unNumero = 22
+
+- Strings:              Un "String" es lo que nosotros llamaríamos en español un texto. Algunos de sus usos
+                        son, poder ser guardado en variables, ser utilizado en funciones, o para indicarle que
+                        escribir en pantalla a JavaScript.
+                        Por ejemplo, un string podría ser tu nombre, y se lo escribe entre comillas.
+
+                            "Tomás", "Esto también es un String", "E", "100"
+
+- Funciones:            Una como un accesso a una tarea especifica definida por nosotros, la cual podemos luego
+                        podemos "llamar" para que nos ayude a solucionar un problema. Una función también nos ayuda
+                        a que nuestro codigo sea mas limpio y facil de entender.
+
+- Declaraciones if:     Un "if" es una herramienta que utilizaremos para la toma de decisiones en nuestro
+                        codigo. Esta funciona de la siguiente forma:
+                            
+                            Si (se cumple tal cosa) {
+                                hacer esto
+                            } sino {
+                                hacer esto otro
+                            }
+
+- Valores booleanos:    Un valor booleano es un tipo de dato que nos brinda JavaScript para agrandar nuestra
+                        caja de herramientas para solucionar problemas. Así como podemos guardar numeros y
+                        textos en variables, podemos guardar valores booleanos, pero a diferencia de los otros,
+                        un valor booleano solo puede tomar 2 valores, verdadero o falso.
+                        Un ejemplo de esto podría ser:
+
+                            hoyLlueve = verdadero
+                            elCieloEstaDespejado = falso
